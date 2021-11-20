@@ -21,21 +21,21 @@ a large project.
 
 > <img src="/images/image3.png" alt="portrait of Kevin" width="100"/> <br />
 > Kevin Nguyen   <br />
-> Full stack Developer, AWS Cognito and EC2
+> Full Stack Web Developer, AWS Cognito and EC2
 
 > <img src="/images/image4.png" alt="portrait of Todd" width="100"/> <br />
 > Todd Thornley   <br />
-> Full stack Developer and Database Backend
+> Full Stack Web Developer and Database Backend
 
 > <img src="/images/image1.png" alt="portrait of Warren" width="100"/> <br />
 > Warren Kidman   <br />
-> Full stack Developer and E-Commerce
+> Full Stack Web Developer and E-Commerce
 
 > <img src="/images/image5.jpg" alt="portrait of William" width="100"/> <br />
 > William Meldrum   <br />
-> Full stack Developer
+> Full Stack Web Developer
 
 > <img src="/images/image2.jpg" alt="portrait of Johnny" width="100"/> <br />
 > Johnny Zhang   <br />
-> Mobile Application and AWS Cognito
+> Full Stack Mobile Developer and AWS Cognito
 
