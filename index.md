@@ -1,3 +1,8 @@
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+</head>
+
+
 ## About the Project
 [www.registration.WUSPBA.org](http://register.wuspba.org/) <br />
 WUSPBA Event Management website meets the needs of WUSPBA in order to manage and organize large scale events. 
