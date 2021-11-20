@@ -1,4 +1,7 @@
-# [register.WUSPBA.org](http://register.wuspba.org/)
+# WUSPBA Event Management Website
+## [www.registration.WUSPBA.org](http://register.wuspba.org/)
+
+WUSPBA Event Management website meets the needs of WUSPBA in order to manage and organize large scale events. 
 
 ## Who is WUSPBA? 
 
@@ -15,23 +18,25 @@ We are a group of Computer Science students attending the University of Utah wor
 We chose this project because we wanted to help a non-profit organization, and for the learning exerience in implementing
 a large project. 
 
-> <img src="/images/image3.png" alt="portrait of Kevin" width="100"/> 
-> Kevin Nguyen 
+---
+
+> <img src="/images/image3.png" alt="portrait of Kevin" width="100"/> <br />
+> Kevin Nguyen   <br />
 > Full stack Developer, AWS Cognito and EC2
 
-> <img src="/images/image1.png" alt="portrait of Warren" width="100"/> 
-> Warren
-> Full stack Developer and E-Commerce
-
-> <img src="/images/image5.jpg" alt="portrait of William" width="100"/> 
-> William
-> Web Developer
-
-> <img src="/images/image4.png" alt="portrait of Todd" width="100"/> 
-> Todd Thornley 
+> <img src="/images/image4.png" alt="portrait of Todd" width="100"/> <br />
+> Todd Thornley   <br />
 > Full stack Developer and Database Backend
 
-> <img src="/images/image2.jpg" alt="portrait of Johnny" width="100"/> 
-> Johnny 
+> <img src="/images/image1.png" alt="portrait of Warren" width="100"/> <br />
+> Warren Kidman   <br />
+> Full stack Developer and E-Commerce
+
+> <img src="/images/image5.jpg" alt="portrait of William" width="100"/> <br />
+> William Meldrum   <br />
+> Full stack Developer
+
+> <img src="/images/image2.jpg" alt="portrait of Johnny" width="100"/> <br />
+> Johnny Zhang   <br />
 > Mobile Application and AWS Cognito
 
