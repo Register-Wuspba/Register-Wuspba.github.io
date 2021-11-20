@@ -1,5 +1,5 @@
 ## About the Project
-[www.registration.WUSPBA.org](http://register.wuspba.org/)
+[www.registration.WUSPBA.org](http://register.wuspba.org/) <br />
 WUSPBA Event Management website meets the needs of WUSPBA in order to manage and organize large scale events. 
 
 ## Who is WUSPBA? 
