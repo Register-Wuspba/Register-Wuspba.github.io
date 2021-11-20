@@ -1,3 +1,10 @@
-theme: jekyll-theme-minimal
+theme: pages-themes/slate@v0.2.0
 title: Hometeam
 description: Senior Capstone Project 2021
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+show_downloads: false
+
+github:
+  is_project_page: false
